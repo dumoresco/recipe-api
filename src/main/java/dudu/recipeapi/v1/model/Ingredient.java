@@ -1,4 +1,4 @@
-package dudu.recipeapi.model;
+package dudu.recipeapi.v1.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
